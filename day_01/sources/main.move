@@ -6,7 +6,7 @@
 /// 
 /// Task: Verify the module builds correctly
 
-module challenge::   {
+module challenge::day_01   {
     // Day 1: Basic module structure + primitive types
 
     // TODO: Define three constants to practice primitive types
